@@ -1,6 +1,7 @@
 {
   "name": "4inrow-app",
   "version": "0.1.0",
+  "homepage" : "http://supergrovernn.github.io/4inrow",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
