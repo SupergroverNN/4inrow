@@ -1,1 +1,2 @@
-This project was bootstrapped with [Create React App] and named "4 in row"
+This project named "4 in row".
+Demo on link [https://supergrovernn.github.io/4inrow/index.html]
